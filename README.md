@@ -22,5 +22,5 @@ make start_server
 try to connect to server with mTLS
 
 ```bash
-make start_client
+make run_client
 ```
